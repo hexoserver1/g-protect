@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Wownicehat/g-protect)](https://repl.it/github/Wownicehat/g-protect)
 # g-protect
 ## G-Protect discord raid protection bot
 G-Protect is a discord bot to protect your server against raids
